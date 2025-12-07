@@ -12,7 +12,7 @@ If you use the code, please cite the following article: <br>
 **[PointNet with KAN versus PointNet with MLP for 3D classification and segmentation of point sets](https://doi.org/10.1016/j.cag.2025.104319)**
 
     @article{kashefi2025PointNetKANgraphics,
-      title={Pointnet with kan versus pointnet with mlp for 3d classification and segmentation of point sets},
+      title={PointNet with KAN versus PointNet with MLP for 3D classification and segmentation of point sets},
       author={Kashefi, Ali},
       journal={Computers \& Graphics},
       pages={104319},
