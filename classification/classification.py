@@ -6,7 +6,7 @@
 ##### Citation #####
 #If you use the code, please cite the following journal paper: 
 #[PointNet with KAN versus PointNet with MLP for 3D Classification and Segmentation of Point Sets]
-# https://arxiv.org/abs/2410.10084
+# https://doi.org/10.1016/j.cag.2025.104319
 
 #@article{kashefi2025PointNetKANgraphics,
 #title={PointNet with KAN versus PointNet with MLP for 3D classification and segmentation of point sets},
